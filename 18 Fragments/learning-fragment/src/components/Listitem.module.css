@@ -1,0 +1,19 @@
+.kg-item{
+  font-size: 25px;
+  border: 1px solid black;
+  margin-top: 5px;
+  color: red;
+}
+.names{
+  font-size: 25px;
+  border: 1px solid black;
+  background-color: aquamarine;
+}
+#anu{
+  background-color: black;
+  color: bisque;
+}
+.button{
+  float:right ;
+  height: 35px;
+}
